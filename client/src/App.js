@@ -1,3 +1,4 @@
+import Mic from './components/Mic/Mic';
 import './App.css';
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <div className="App">
       <div className="speech-text-container">
         <h1>Speech to text</h1>
+        <Mic />
       </div>
       <div className="vertical-line"></div>
       <div className="text-speech-container">
