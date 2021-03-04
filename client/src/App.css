@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  min-height: 100vh;
+  background-color: #282c34;
+}
+
+.speech-text-container {
+  flex: 1;
+}
+.text-speech-container {
+  flex: 1;
+}
+
+.speech-text-container > h1 {
+  color: #61dafb;
+  text-align: center;
+}
+
+.text-speech-container > h1 {
+  color: #61dafb;
+  text-align: center;
+}
+
+.vertical-line {
+  width: 3px;
+  background-color: #61dafb;
+}
