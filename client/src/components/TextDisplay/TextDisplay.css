@@ -1,0 +1,9 @@
+.text-display {
+    outline: none;
+    width: 90%;
+    align-self: center;
+    margin: 1rem 0;
+
+    padding:1rem;
+
+}
